@@ -1,0 +1,1 @@
+/usr/bin/g++-8  -O3 -DNDEBUG  -rdynamic CMakeFiles/cohlam.dir/src/CohMSqLL.cpp.o CMakeFiles/cohlam.dir/src/PodioReader.cpp.o CMakeFiles/cohlam.dir/src/main.cpp.o  -o cohlam  -L/home/vitaly/work/MyLibs/libLinAl/build -Wl,-rpath,/home/vitaly/work/MyLibs/libLinAl/build -lpodio -ldatamodel -lLinal 

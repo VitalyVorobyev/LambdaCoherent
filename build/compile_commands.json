@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/vitaly/CTau/Code/LambdaCoherent/build",
+  "command": "/usr/bin/g++-8   -I/home/vitaly/CTau/Code/LambdaCoherent/include -I/home/vitaly/work/MyLibs/libLinAl/src -I/home/vitaly/Dist/podio/include -I/home/vitaly/Dist/fcc-edm/datamodel  -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/cohlam.dir/src/CohMSqLL.cpp.o -c /home/vitaly/CTau/Code/LambdaCoherent/src/CohMSqLL.cpp",
+  "file": "/home/vitaly/CTau/Code/LambdaCoherent/src/CohMSqLL.cpp"
+},
+{
+  "directory": "/home/vitaly/CTau/Code/LambdaCoherent/build",
+  "command": "/usr/bin/g++-8   -I/home/vitaly/CTau/Code/LambdaCoherent/include -I/home/vitaly/work/MyLibs/libLinAl/src -I/home/vitaly/Dist/podio/include -I/home/vitaly/Dist/fcc-edm/datamodel  -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/cohlam.dir/src/PodioReader.cpp.o -c /home/vitaly/CTau/Code/LambdaCoherent/src/PodioReader.cpp",
+  "file": "/home/vitaly/CTau/Code/LambdaCoherent/src/PodioReader.cpp"
+},
+{
+  "directory": "/home/vitaly/CTau/Code/LambdaCoherent/build",
+  "command": "/usr/bin/g++-8   -I/home/vitaly/CTau/Code/LambdaCoherent/include -I/home/vitaly/work/MyLibs/libLinAl/src -I/home/vitaly/Dist/podio/include -I/home/vitaly/Dist/fcc-edm/datamodel  -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/cohlam.dir/src/main.cpp.o -c /home/vitaly/CTau/Code/LambdaCoherent/src/main.cpp",
+  "file": "/home/vitaly/CTau/Code/LambdaCoherent/src/main.cpp"
+}
+]
