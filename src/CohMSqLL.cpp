@@ -85,7 +85,7 @@ double CohMsqLL::operator()(const LVect& p, const LVect& pbar, const LVect& pip,
 
     double aa = a();
     double bb = b();
-    cout << "a: " << aa << ", b: " << bb << endl;
+    // cout << "a: " << aa << ", b: " << bb << endl;
     return aa + m_xi * bb;
 }
 
